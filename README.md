@@ -1,2 +1,2 @@
 # Ola!
- ![image]({BadgeURLHere})
+ ![games]({BadgeURLHere})
